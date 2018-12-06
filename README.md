@@ -9,4 +9,4 @@ para verlo en [nbviewer seleccione aqui](http://nbviewer.jupyter.org/github/jgue
 Si quieres verlo en [formato html selecciona este enlace](/notebook.html)
 
 
-Ahora [descargamos aqui el markdown] (notebook.ipynb)
+Ahora [descargamos aqui el markdown](notebook.ipynb)
